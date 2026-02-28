@@ -162,24 +162,6 @@ realtime-ml-monitoring/
 
 ---
 
-## 📄 Resume Bullet Points (copy-paste ready)
-
-```
-• Built real-time ML anomaly detection pipeline processing 50K+ IoT sensor
-  readings using PyTorch Autoencoder + Isolation Forest ensemble, achieving
-  AUC > 0.95 with sub-5ms inference latency per request
-
-• Designed cloud-native multi-service monitoring stack (Docker Compose) with
-  Prometheus metrics scraping and Grafana dashboards tracking 8 real-time
-  KPIs including anomaly rate, P95 latency, and data drift alerts
-
-• Exposed Prometheus-compatible /metrics endpoint and self-contained live
-  HTML monitoring dashboard with 3-second auto-refresh, simulating GCP
-  Cloud Monitoring and Cloud Run production service patterns
-```
-
----
-
 ## 🛠️ Tech Stack
 
 | Component | Technology | GCP Equivalent |
